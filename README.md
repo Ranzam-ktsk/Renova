@@ -22,13 +22,18 @@
 - 接頭辞と数字の間に  
   **スペース (` `)** または **アンダースコア (`_`)** を挿入可能
 
-
 ## 主な機能（シリーズモード）
 
 - シンプルモードを拡張した、**より詳細な設定**が可能
 - 一般ユーザー向けというより、**私的なファイル整理用途**を想定
 - 利用は自己責任でお願いします
-- 
+
+## 動作環境
+
+- Windows 11 25H2
+- ※ 上記環境でのみ動作確認を行っています  
+  他のOSやバージョンでの動作は未検証です
+
 ---
 
 ## English / 英語
@@ -59,3 +64,9 @@ A desktop application for bulk file renaming.
 - Provides **more detailed and advanced settings** than Simple Mode
 - Intended mainly for **personal file organization**
 - Use at your own risk
+
+## Environment
+
+- Windows 11 25H2
+- Tested only on the environment listed above  
+  Other operating systems or versions have not been verified
